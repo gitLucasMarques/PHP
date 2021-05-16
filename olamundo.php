@@ -1,5 +1,5 @@
 <?php
 
-echo "<h1>Teste clone do GitHub</h1>";
+echo "<h1>Segundo teste clone do GitHub</h1>";
 
 ?>
